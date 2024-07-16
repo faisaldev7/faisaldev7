@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Faisal Anwar Nizami</h1>  
 <h3 align="center">Experienced Backend Developer Specializing in Ruby on Rails from Hyderabad, India</h3>  
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisaldev7&label=Profile%20views&color=0e75b6&style=flat" alt="faisaldev7" /> </p>  
-  
 - 💬 Ask me about **Ruby on Rails, JavaScript, HTML, CSS**  
   
 - 📫 How to reach me **fanwarnizami@gmail.com**  
