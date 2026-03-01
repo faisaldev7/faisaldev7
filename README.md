@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Faisal Anwar Nizami</h1>  
-<h3 align="center">Experienced Backend Developer Specializing in Ruby on Rails from Hyderabad, India</h3>  
+<h3 align="center">Experienced Backend Developer Specializing in Ruby on Rails | Python | AWS </h3>  
   
 - 💬 Ask me about **Ruby on Rails, JavaScript, HTML, CSS**  
   
